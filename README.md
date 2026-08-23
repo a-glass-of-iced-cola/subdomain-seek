@@ -1,4 +1,4 @@
-# SubdomainSeek
+# Subdomain Seek
 Simple subdomain scanner written in python.
 Built‑in dictionary, configurable threads, auto‑save scan results to file.
 
