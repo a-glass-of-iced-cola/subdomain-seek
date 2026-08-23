@@ -1,5 +1,5 @@
 # SubdomainSeek
-Simple subdomain scanner written in python3.
+Simple subdomain scanner written in python.
 Built‑in dictionary, configurable threads, auto‑save scan results to file.
 
 > ⚠️ Legal Disclaimer: This tool is for security learning and authorized penetration testing only.
