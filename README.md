@@ -10,5 +10,6 @@ Built‑in dictionary, configurable threads, auto‑save scan results to file.
 - Adjustable concurrent threads
 - Auto‑save valid subdomains to result file
 - Pure DNS resolve detection, lightweight
+![Uploading image.png…]()
 
 
