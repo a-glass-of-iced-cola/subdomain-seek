@@ -1,15 +1,15 @@
 # Subdomain Seek
-Simple subdomain scanner written in python.
-Built‑in dictionary, configurable threads, auto‑save scan results to file.
+用Pvthon编写的简单子域名扫描器。
+内置字典，可配置线程，自动保存扫描结果到文件。
 
-> ⚠️ Legal Disclaimer: This tool is for security learning and authorized penetration testing only.
-> Do not scan targets without authorization. Illegal scanning consequences are borne by the user.
+> ⚠️ 法律声明:本工具仅用于安全学习和授权渗透测试。
+未经授权不得扫描目标。非法扫描的后果由用户承担。
 
-## Features
-- Built‑in subdomain dictionary
-- Adjustable concurrent threads
-- Auto‑save valid subdomains to result file
-- Pure DNS resolve detection, lightweight
+## 功能特性
+-内置子域名字典
+-可调节的并发线程数
+-自动保存有效的子域名到结果文件
+-纯DNS解析检测，轻量级
 
 
 
